@@ -1,0 +1,162 @@
+#title{
+	background-color: #aad8d3;
+}
+img{
+	height:250px;
+	padding: 2% 0;
+}
+.footer{
+	background-color: #66BFBF;
+	text-align: center;
+	padding:5% 10%;
+}
+.footer-link{
+	color: #11999E;
+}
+.end{
+	color: #EAF6F6;
+	font-size: 0.95rem;
+	padding: 40px 0 0 0;
+}
+h1,h2{
+	color: #66BFBF;
+}
+.display{
+	font-size: 4rem;
+}
+/*Navigation Bar*/
+.navbar-brand{
+	font-family: "Ubuntu";
+	font-size: 2.5rem;
+	font-weight: bold;
+	
+}
+.nav-item{
+	padding: 0 18px;
+}
+.nav-link{
+	font-size: 1.2rem;
+	font-family:"Montserrat-light";
+}
+.navbar{
+	padding: 0 0 2.5rem;
+}
+.container-fluid{
+	padding: 3% 10% 3%;
+}
+.progress{
+	margin-top: 1%;
+	margin-left: 2%;
+	margin-right: 2%;
+}
+h1{
+	text-align: center;
+}
+.para{
+	margin-top: 1%;
+	margin-left: 2%;
+}
+.logo{
+	width:20%;
+	height:10%;
+}
+.btn2{
+	margin: 2% 0;
+}
+p{
+	
+	font-size: 20px;
+}
+.para1{
+	text-align: center;
+	margin: 3% 0;
+}
+
+.line{
+	margin: 0;
+
+}
+.icn{
+	padding: 0 3%;
+	color: black;
+    font-size: 50px;
+}
+.middle{
+	text-align: center;
+}
+hr{
+	margin: 0 20%;
+}
+.hello{
+	margin-top: 2%;
+}
+.home{
+      text-align: center;
+}
+.card{
+	margin: 2% 10% 2% 32%;
+
+}
+.btn{
+	
+	float: right;
+
+}
+.about{
+	margin: 3% 10%;
+	padding: 2% 5%;
+	background-color: #A7BBC7;
+}
+.pic{
+	float: left;
+	margin-right: 2%;
+}
+.aboutpara{
+	margin-left: 19%;
+	text-align: left;
+	line-height: 1.6;
+}
+.edu{
+	margin-bottom: 2%;
+}
+.exp{
+	background-color: #E4FBFF;
+	padding:  2% 4%;
+	margin: 2% 18%;
+
+}
+
+.middle-container{
+	margin: 2% 10%;
+
+}
+
+.certify{
+	background-color: #E4FBFF;
+	padding:  2% 4%;
+	margin: 2% 18%;
+
+}
+.card {
+    width: 30rem;
+
+  }
+
+.fab{
+	margin-left: 5%;
+}
+@media only screen and (max-width: 600px) {
+ .card {
+    width: 20rem;
+    margin: 4% 12% 4% 4%;
+  }
+  .aboutpara{
+	margin-left: 2%;
+	text-align: left;
+}
+.fab{
+	margin-left: 0;
+}
+}
+
+
